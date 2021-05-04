@@ -637,3 +637,6 @@ body.show_overlay .body_overlay {
 .pluskey.toggle {
     display: none;
 }
+.viewinresp {
+    display: none;
+}
